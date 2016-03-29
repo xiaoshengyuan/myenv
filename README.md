@@ -1,0 +1,2 @@
+# myenv
+django project
